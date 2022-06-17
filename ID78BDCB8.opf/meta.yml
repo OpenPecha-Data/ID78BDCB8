@@ -1,0 +1,99 @@
+id: ID78BDCB8
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T11:40:10.298469'
+last_modified: '2022-06-17T11:40:10.298482'
+parser: null
+source_metadata:
+  title: Damngak Dzö Series
+  language: it
+  description: 'Texts belonging to (and related to) the Damgnak Dzö (gdams ngag mdzod)
+    or Treasury of Instructions, one of the five treasuries of Jamgön Kongtrul Lodrö
+    Thayé (1813–1899):'
+  volume:
+    f4701:
+      title: The Bodhisattva’s Garland of Jewels
+      base_file: f4701.txt
+      order: 1
+      parent: Kadam
+    f6000:
+      title: The Lamp for the Path to Enlightenment
+      base_file: f6000.txt
+      order: 2
+      parent: Kadam
+    f7E5A:
+      title: Seven Points of Training the Mind According to the Great Vehicle
+      base_file: f7E5A.txt
+      order: 3
+      parent: Kadam
+    f4C43:
+      title: Three Principal Aspects of the Path
+      base_file: f4C43.txt
+      order: 4
+      parent: Kadam
+    fFD3C:
+      title: Supplement to the Omniscient Ngorchen Kunga Zangpo’s Prayer to the Lineage
+        of Parting from the Four Attachments
+      base_file: fFD3C.txt
+      order: 5
+      parent: Sakya Lamdré
+    f8F8A:
+      title: Parting from the Four Attachments
+      base_file: f8F8A.txt
+      order: 6
+      parent: Sakya Lamdré
+    fAF1B:
+      title: Prayer to the Lineage of Parting from the Four Attachments
+      base_file: fAF1B.txt
+      order: 7
+      parent: Sakya Lamdré
+    f0DFE:
+      title: Nubpa Rigdzin Drak's Parting from the Four Attachments
+      base_file: f0DFE.txt
+      order: 8
+      parent: Sakya Lamdré
+    f8E7F:
+      title: The Instructions on Parting from the Four Attachments
+      base_file: f8E7F.txt
+      order: 9
+      parent: Sakya Lamdré
+    fA874:
+      title: Sakya Paṇḍita’s Instruction on Parting from the Four Attachments
+      base_file: fA874.txt
+      order: 10
+      parent: Sakya Lamdré
+    f0134:
+      title: A Song of Calling the Guru from Afar
+      base_file: f0134.txt
+      order: 11
+      parent: Marpa Kagyü
+    f0555:
+      title: 'A Casket of Sacred Dharma: Stages of Meditation on Dependent Arising'
+      base_file: f0555.txt
+      order: 12
+      parent: Marpa Kagyü
+    fB2E8:
+      title: The Ganges Mahāmudrā Instructions
+      base_file: fB2E8.txt
+      order: 13
+      parent: Marpa Kagyü
+    f2440:
+      title: 'The Sweet-Sounding Song that Fulfils All Aims: A Prayer to Noble Tārā
+        Combined with Her Root Mantra'
+      base_file: f2440.txt
+      order: 14
+      parent: Miscellaneous
+    fFF20:
+      title: Vajra Speech of the Prayer to Noble Avalokiteśvara from the Great Siddha
+        Thangtong Gyalpo's Lifetime as Bhikṣu Padma Karpo
+      base_file: fFF20.txt
+      order: 15
+      parent: Miscellaneous
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
